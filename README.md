@@ -44,3 +44,8 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+## Documentação da API (Swagger)
+ - **https://desenvolvimento-java-ia-prd.up.railway.app/swagger-ui/index.html**
+   
+## URL de Produção
+ - **https://desenvolvimento-java-ia-prd.up.railway.app/users/1**
