@@ -151,3 +151,5 @@ G.idea/sonarlint/issuestore/e/8/e8f18b4ff342ac3f8e282cb312781a06fcc31cb5,d\4\d4
 Q.idea/sonarlint/securityhotspotstore/4/2/42e465167d1eae80f5ee595da122b88a48dd6e27,c\b\cb70a98c7c22f0018480a22b9706f9339ad2c514
 L
 desenvolvimento-java-ia/mvnw,5\6\56126172df2c5af525b2732587440a82c6652173
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
