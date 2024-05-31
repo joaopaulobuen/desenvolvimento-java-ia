@@ -1,3 +1,10 @@
+## Principais Tecnologias
+ - **Java 17**
+ - **Spring Boot 3**
+ - **Spring Data JPA**
+ - **OpenAPI (Swagger)**
+ - **Railway**
+
 ## Diagrama de Classes (Domínio da API)
 
 ```mermaid
